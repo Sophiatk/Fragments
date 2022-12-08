@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_person_24"
+        />
+    <item android:title="moon"
+        android:id="@+id/moon"
+        android:icon="@drawable/moon"
+        />
+    <item android:title="sun"
+        android:icon="@drawable/sun"
+        android:id="@+id/sun"/>
+</menu>
